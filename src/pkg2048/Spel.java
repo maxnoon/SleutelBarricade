@@ -11,6 +11,8 @@ public class Spel
 {
     public static void main(String[] args)
     {
+        //commit
+        
         Scanner in = new Scanner(System.in);
         String input = "";
         
